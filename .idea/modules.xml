@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/A卷/A卷.iml" filepath="$PROJECT_DIR$/A卷/A卷.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myCollection/myCollection.iml" filepath="$PROJECT_DIR$/myCollection/myCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myDelayQuere/myDelayQuere.iml" filepath="$PROJECT_DIR$/myDelayQuere/myDelayQuere.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myDemo.iml" filepath="$PROJECT_DIR$/myDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myEasyExcel/myEasyExcel.iml" filepath="$PROJECT_DIR$/myEasyExcel/myEasyExcel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myRedisson/myRedisson.iml" filepath="$PROJECT_DIR$/myRedisson/myRedisson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mySecurity/mySecurity.iml" filepath="$PROJECT_DIR$/mySecurity/mySecurity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mySpringMCV/mySpringMCV.iml" filepath="$PROJECT_DIR$/mySpringMCV/mySpringMCV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-authorize/security-authorize.iml" filepath="$PROJECT_DIR$/security-authorize/security-authorize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/创建对象的方式/创建对象的方式.iml" filepath="$PROJECT_DIR$/创建对象的方式/创建对象的方式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myReference/四种引用的区别.iml" filepath="$PROJECT_DIR$/myReference/四种引用的区别.iml" />
+      <module fileurl="file://$PROJECT_DIR$/对象创建过程/对象创建过程.iml" filepath="$PROJECT_DIR$/对象创建过程/对象创建过程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数据结构/数据结构.iml" filepath="$PROJECT_DIR$/数据结构/数据结构.iml" />
+      <module fileurl="file://$PROJECT_DIR$/浅克隆和深克隆/浅克隆和深克隆.iml" filepath="$PROJECT_DIR$/浅克隆和深克隆/浅克隆和深克隆.iml" />
+      <module fileurl="file://$PROJECT_DIR$/算法/算法.iml" filepath="$PROJECT_DIR$/算法/算法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/设计模式.iml" filepath="$PROJECT_DIR$/设计模式/设计模式.iml" />
+    </modules>
+  </component>
+</project>

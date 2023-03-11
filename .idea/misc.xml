@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/mySpringMCV" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/myRedisson/pom.xml" />
+        <option value="$PROJECT_DIR$/mySecurity/pom.xml" />
+        <option value="$PROJECT_DIR$/mySpringMCV/pom.xml" />
+        <option value="$PROJECT_DIR$/security-authorize/pom.xml" />
+        <option value="$PROJECT_DIR$/myDelayQuere/pom.xml" />
+        <option value="$PROJECT_DIR$/myEasyExcel/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

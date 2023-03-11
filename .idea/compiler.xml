@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="myDelayQuere" />
+        <module name="mySpringMCV" />
+        <module name="myEasyExcel" />
+        <module name="myRedisson" />
+        <module name="mySecurity" />
+        <module name="security-authorize" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="myDelayQuere" target="1.8" />
+      <module name="myEasyExcel" target="1.8" />
+      <module name="myRedisson" target="1.8" />
+      <module name="mySecurity" target="1.8" />
+      <module name="mySpringMCV" target="1.5" />
+      <module name="security-authorize" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="myDelayQuere" options="-parameters" />
+      <module name="myEasyExcel" options="-parameters" />
+      <module name="myRedisson" options="-parameters" />
+      <module name="mySecurity" options="-parameters" />
+      <module name="security-authorize" options="-parameters" />
+    </option>
+  </component>
+</project>
